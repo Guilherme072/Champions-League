@@ -1,4 +1,4 @@
-### ** Campeões da Champions League: Encontre seu time favorito!**
+###  Campeões da Champions League: Encontre seu time favorito! - Imersão Dev com Google Gemini
 
 **O que faz essa aplicação?**
 
